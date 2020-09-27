@@ -17,5 +17,3 @@ How to learn Telugu words and sentences for English speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
- 
-{% include analytics.html %}
