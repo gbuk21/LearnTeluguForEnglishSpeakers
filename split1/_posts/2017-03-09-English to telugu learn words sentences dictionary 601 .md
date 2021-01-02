@@ -17,3 +17,6 @@ How to learn Telugu words and sentences for English speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split1/_posts/2017-10-23-English to telugu learn words sentences dictionary 373 .md%})
+ 
